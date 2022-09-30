@@ -1,4 +1,4 @@
-package com.zcitc.advertisement.adv
+package com.zcitc.advlib.adv
 
 import android.app.Activity
 import android.content.Context

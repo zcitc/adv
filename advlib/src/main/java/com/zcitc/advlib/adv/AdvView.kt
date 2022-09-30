@@ -14,7 +14,6 @@ import com.youth.banner.adapter.BannerImageAdapter
 import com.youth.banner.config.IndicatorConfig
 import com.youth.banner.holder.BannerImageHolder
 import com.youth.banner.indicator.CircleIndicator
-import com.zcitc.advertisement.adv.InformationAdvView
 import com.zcitc.advlib.ApiRoutes
 import com.zcitc.advlib.bean.ADPlanItemsData
 import com.zcitc.advlib.bean.AdvertisementRecommendationData
